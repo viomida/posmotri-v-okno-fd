@@ -19,4 +19,4 @@ https://github.com/viomida/posmotri-v-okno-fd
 - [x] Шаг 7. Работаем с кликабельностью
 - [x] Шаг 8. Позиционирование прелоадеров
 
-.[](.\YandexThanks.jpg)
+.[](./YandexThanks.jpg)
