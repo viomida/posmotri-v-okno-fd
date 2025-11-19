@@ -5,7 +5,6 @@ https://github.com/viomida/posmotri-v-okno-fd
 ## ПОСМОТРИ В ОКНО
 
 > [!TIP]
-
 > Выполнила: [Viomida](https://github.com/Viomida)
 
 ### В этой работе мы соблюдали вот такие шаги:
