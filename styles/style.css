@@ -97,10 +97,9 @@ ol {
 }
 
 .content__list-container {
-   position: relative;
+  position: relative;
   overflow-y: scroll;
   block-size: 298px;
-  scrollbar-width: none;
 }
 
 .result {
@@ -260,11 +259,6 @@ ol {
   font-size: inherit;
   background-color: transparent;
   inline-size: 225px;
-}
-
-.content__list-container {
-  position: relative;
-  scrollbar-width: none;
 }
 
 .content__list-item:not(:last-child) {
